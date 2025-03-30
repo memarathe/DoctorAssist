@@ -1,4 +1,4 @@
-python3 preprocess_db.py \
+python preprocess_db.py \
 --data_dir ../mimic-iv-clinical-database-demo-2.2 \
 --db_name mimic_iv \
 --num_patient 100 \
